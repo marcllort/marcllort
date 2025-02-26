@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Computer Engineer with two+ years of experience in devops and backend microservices development. I’ve worked on countless personal projects (check my [Github repos](https://github.com/marcllort?tab=repositories)!), which allowed me to realize my strengths and interests.
+Innovative and results-driven CloudOps and DevOps Engineer with 6+ years of hands-on experience in designing, deploying, and optimizing scalable cloud-based infrastructures. 
 
-I’ve always been a great problem solver (good googler), quick learner, and a technophile obsessed with the latest devices. Now I’m working as a DevOps engineer, and I get to show off all these elements of who I am.
+Proficient in Infrastructure as Code (Terraform, Pulumi) and adept at leveraging AWS, Docker, Kubernetes, and CI/CD pipelines to streamline operations. Known for quickly diagnosing and resolving complex issues, driving cost optimizations, and ensuring secure, reliable deployments. 
 
-As a DevOps engineer, I get to work every day with Terraform, AWS, Datadog and CircleCI, but also have worked with Kubernetes, GCP, different CI/CD providers(Jenkins, BB Pipelines, Gitlab CI/CD) and many others.
+Passionate about collaboration, continuous learning, and empowering teams through automation and robust tooling. 
 
-I’m still adding new technologies and projects to my tech stack every day, with no intention to stop!
-
-⚡ If you want to check out some of my projects, I would say the most interesting are [CarRental](https://github.com/marcllort/Car_Rental_Monorepo) and [CanITravelTo](https://github.com/marcllort/CanITravelTo_Backend).
+Developing is both my job and my hobby (I have lots of personal projects to talk about!).
 
 📫 Contact: marc.llort@outlook.com
 🧾 LinkedIn: https://www.linkedin.com/in/marcllort/
